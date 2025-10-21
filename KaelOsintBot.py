@@ -29,7 +29,7 @@ logging.basicConfig(
 logger = logging.getLogger("osint-bot")
 
 # ====== CONFIG ======
-BOT_TOKEN = "8392371637:AAFUaicG1CH4IofZmn4maist4dpkyNPhjiM"  # your BotFather token
+BOT_TOKEN = "8492547058:AAFcTuoVvPeeVlVCN4ik5QXPUQU0837rMN0"  # your BotFather token
 
 API_ENDPOINT = {
     "url": "https://chut.voidnetwork.in/api",
